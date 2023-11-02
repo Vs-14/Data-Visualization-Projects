@@ -9,8 +9,10 @@ This repository contains data visualizations created using the Dash framework. T
 To run the visualizations locally, follow these steps:
 
 1. Clone this repository to your local machine:
+   
+   git clone https://github.com/Vs-14/Data-Visualization-Projects.git
 
-2. Install the required dependencies:
+3. Install the required dependencies:
    
    pip install -r requirements.txt
 
